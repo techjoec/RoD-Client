@@ -1,0 +1,20 @@
+# Byte-compiled / cache / virtual env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Build outputs
+build/
+dist/*
+!dist/RealmsClient.exe
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
